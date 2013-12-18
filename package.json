@@ -1,0 +1,15 @@
+{
+  "name": "orbs-feature-logging-winston",
+  "version": "0.0.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "dependencies": {
+    "winston": "~0.7.2",
+    "lodash": "~2.4.1",
+    "orbs": "Orbs/orbs"
+  }
+}
